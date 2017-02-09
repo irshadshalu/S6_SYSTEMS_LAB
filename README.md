@@ -3,12 +3,13 @@ Systems Lab programs implemented in C.
 
 Syllabus
 
-Lab 1: Identification of components/cards and PC assembling from components
-Lab 2,3: Assembly language program for implementing arithmetic and string
-operations
-Lab 4: Assembly Language programs for display /video manipulation
-Lab 5 : Implementation of a file manager using DOS/BIOS interrupts
-Lab 6: TSR (Terminate and Stay Resident) Programming
-Lab 7 : Stepper Motor interface
-Lab 8, 9: Parallel Interface: Printer and Hex keyboard
-Lab 10: LED Matrix Board Display
+Operating systems
+  1. Implementation of dining philosophers problem by multiprogramming using threads, semaphores and shared memory
+  2. Implementation of banker's algorithm
+  3. Inter-process communication using mailboxes and pipes
+  4. Simulation of any two CPU Scheduling Algorithms. (FCFS, RR, SJF, SPN, SRTF, Priority, Multilevel Queuing)
+  5. Program for FIFO, LRU, and OPTIMAL page replacement algorithm
+Database management systems
+  1. Implementation of a database stored in an RDBMS accessible through a web browser.
+  2. Implementation of optimistic concurrency control algorithm
+  3. Familiarization of any one RDBMS software and writing SQL queries to retrieve information from the stored database
